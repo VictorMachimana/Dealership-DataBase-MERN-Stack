@@ -6,7 +6,7 @@ type npm install, to install node_modules, cd into the client folder and do the 
 
 #go to the ".env file" and enter your MONGODB_URL to connect to your mongodb
 
-# then type npm start on your terminal for both the server and client side to start the app
+#then type npm start on your terminal for both the server and client side to start the app
 <br/>
 <br/>
 
