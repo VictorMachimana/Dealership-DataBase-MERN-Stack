@@ -13,12 +13,15 @@ type npm install, to install node_modules, cd into the client folder and do the 
 # <b>3D Rotating model</b>
 ![](ReadMe.md/slide%20(1).png)
 ![](ReadMe.md/slide%20(2).png)
+<br/>
 
 # <b>Users and Vehicle table</b>
 ![](ReadMe.md/slide%20(3).png)
+<br/>
 
 # <b>Form to add new info</b>
 ![](ReadMe.md/slide%20(4).png)
+<br/>
 
 # <b>Form to edit info</b>
 ![](ReadMe.md/slide%20(5).png)
